@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "email": "juan@email.com",
+    "password": "123456",
+    "rol": "mesero"
+  },
+  {
+    "id": 2,
+    "nombre": "Ana",
+    "email": "ana@email.com",
+    "password": "abcdef",
+    "rol": "administrador"
+  },
+  {
+    "id": 3,
+    "nombre": "Luis",
+    "email": "luis@email.com",
+    "password": "qwerty",
+    "rol": "cajero"
+  },
+  {
+    "id": 4,
+    "nombre": "Sofía",
+    "email": "sofia@email.com",
+    "password": "654321",
+    "rol": "cocinero"
+  },
+  {
+    "id": 5,
+    "nombre": "Carlos",
+    "email": "carlos@email.com",
+    "password": "zxcvb",
+    "rol": "bartender"
+  }
+]
